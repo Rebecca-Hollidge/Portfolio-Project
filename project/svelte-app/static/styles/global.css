@@ -1,0 +1,81 @@
+/* ==============================
+   Global Styles with CSS Variables
+   ============================== */
+
+   :root {
+    /* Color Variables */
+    --primary-color: #000000;
+    --background-color: #f8f9fa;
+    --text-color: #000000;
+    --link-hover-color: #ffffff;
+
+    /* Font Variables */
+    --font-family: 'Arial', sans-serif;
+    --font-size-base: 20px;
+    --line-height-base: 1.6;
+
+    /* Spacing Variables */
+    --spacing-small: 10px;
+    --spacing-medium: 20px;
+    --spacing-large: 40px;
+    --max-width: 1200px;
+}
+
+/* ==============================
+   Global Reset - Ensures consistency across browsers
+   ============================== */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* ==============================
+   Base Styles
+   ============================== */
+body {
+    font-family: var(--font-family);
+    font-size: var(--font-size-base);
+    background-color: #e5b2f1;
+    color: var(--text-color);
+    line-height: var(--line-height-base);
+    
+}
+
+/* ==============================
+   Headings
+   ============================== */
+h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+    margin-bottom: var(--spacing-small);
+}
+
+/* ==============================
+   Paragraphs
+   ============================== */
+p {
+    margin-bottom: var(--spacing-small);
+}
+
+/* ==============================
+   Links
+   ============================== */
+a {
+    color: var(--primary-color);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: white;
+}
+
+/* ==============================
+   Container - Layout Wrapping
+   ============================== */
+.container {
+    width: 90%;
+    max-width: var(--max-width);
+    margin: 0 auto;
+    padding: var(--spacing-medium);
+}
