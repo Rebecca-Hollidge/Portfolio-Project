@@ -12,6 +12,9 @@
 <img src = "images/stake.png"alt="stake" > 
 <img src = "images/jemsheet.png"alt="jemsheet" > 
 <img src = "images/jemsheet2.png"alt="jemsheet2" > 
+<img src = "images/micosheet.png"alt="micosheet" > 
+<img src = "images/micosheet2.png"alt="micosheet2" > 
+
 
 </dive>
 
@@ -36,8 +39,8 @@
         <img src = "images/twin.png"alt="twin" >  
         <img src = "images/disorder.png"alt="disorder" > 
         <img src = "images/cloud.png"alt="cloud" > 
-        <img src = "images/heart.png"alt="heart" > 
         <img src = "images/cat.png"alt="cat" > 
+        <img src = "images/heart.png"alt="heart" > 
         <img src = "images/ivy.png"alt="ivy" > 
         <img src = "images/fairy.png"alt="fairy" > 
         <img src = "images/devil.png"alt="devil" > 
