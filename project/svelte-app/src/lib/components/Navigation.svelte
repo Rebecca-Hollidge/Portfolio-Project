@@ -14,6 +14,7 @@
         <li><a href="/digital">Digital</a></li>
         <li><a href="/trad">Traditional</a></li>
         <li><a href="/icons">Icons</a></li>
+        <li><a href="/college">College</a></li>
 
 
     </ul>

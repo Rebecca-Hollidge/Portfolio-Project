@@ -6,6 +6,11 @@
     });
 </script>
 <h1>  Hi, I am becca.   </h1>
+<div1>
+    Welcome to my website. 
+    You can navigate through thediffernt styles of art i do.
+    
+</div1>
 <div>
     <img src = "images/profilepic.png"alt="profilepic" > 
 
@@ -13,14 +18,18 @@
 
 
 
+
 <style>
     img {
 
-        height: 20%;
-        width: 20%;
-        padding-left: 20px;
-        text-align: left; 
+        height: 10%;
+        width: 10%;
+       
+        
     }
-    
+    div{
+        
+        margin-left: -60% ;
+    }
     
             </style>
