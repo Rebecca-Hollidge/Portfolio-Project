@@ -33,25 +33,18 @@
     </dive>
     <dive>
         <h1> Drawings </h1>
-        <img src = "images/twin.png"alt="twin" > 
-        <img src = "images/devil.png"alt="devil" > 
+        <img src = "images/twin.png"alt="twin" >  
         <img src = "images/disorder.png"alt="disorder" > 
         <img src = "images/cloud.png"alt="cloud" > 
-        
+        <img src = "images/heart.png"alt="heart" > 
+        <img src = "images/cat.png"alt="cat" > 
+        <img src = "images/ivy.png"alt="ivy" > 
+        <img src = "images/fairy.png"alt="fairy" > 
+        <img src = "images/devil.png"alt="devil" > 
         </dive>
-    
-    <dive>
-        <h1> Logos </h1>
-        <img src = "images/tea.png"alt="twin" > 
-        <img src = "images/logo.png"alt="devil" > 
-        <img src = "images/bear.png"alt="disorder" > 
-        <img src = "images/rh.png"alt="cloud" > 
-        <img src = "images/pri.png"alt="cloud" > 
-        <img src = "images/rh.png"alt="cloud" > 
-        
-        </dive>
+  
 
-        <img src = "images/rh.png"alt="cloud" > 
+        
         <style>
 
 img {

@@ -13,6 +13,8 @@
         <li><a href="/about">About</a></li>
         <li><a href="/digital">Digital</a></li>
         <li><a href="/trad">Traditional</a></li>
+        <li><a href="/icons">Icons</a></li>
+
 
     </ul>
 </nav>
