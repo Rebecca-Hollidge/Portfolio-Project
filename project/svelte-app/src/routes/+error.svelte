@@ -2,6 +2,7 @@
     export let error;
     export let status;
     import { page } from '$app/state';
+    import { Card } from '$lib';
 </script>
 
 <div class="container" role="alert">

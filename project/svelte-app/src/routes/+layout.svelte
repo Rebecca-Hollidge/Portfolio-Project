@@ -17,7 +17,7 @@
         padding: 2rem;
         color: white;
         text-align: center;
-        background-color: #ffb8f3;
+        background-color: #f1c1e9;
         min-height: calc(100vh - 308px);
     margin: 0;
     display: flex;

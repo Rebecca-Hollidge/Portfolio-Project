@@ -1,0 +1,28 @@
+<!-- Footer -->
+
+<script>
+    import { Navigation } from "$lib";
+</script><footer>
+   
+</footer>
+
+
+<style>
+    footer {
+        
+        background-color: #b1cefa;
+        color: #e7d2e4;
+        text-align: center;
+        padding: 1rem;
+        position: bottom;
+        bottom: 0;
+        width: 100%;
+        flex-direction: column;
+        
+
+        list-style: none;
+        font-size: 14px;
+        
+    }
+   
+</style>
