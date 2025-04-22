@@ -10,12 +10,12 @@
     </button>
     <ul class:open={isOpen}>
         <li><a href="/">Home</a></li>
-        <li><a href="/about">About</a></li>
+       
         <li><a href="/digital">Digital</a></li>
         <li><a href="/trad">Traditional</a></li>
         <li><a href="/icons">Icons</a></li>
         <li><a href="/college">College</a></li>
-
+        <li><a href="/about">About</a></li>
 
     </ul>
 </nav>
