@@ -3,6 +3,7 @@
 <script>
     import { Navigation } from "$lib";
 </script><footer>
+    <li><a href="/cat">cat</a></li>
    
 </footer>
 
@@ -24,5 +25,6 @@
         font-size: 14px;
         
     }
+    
    
 </style>

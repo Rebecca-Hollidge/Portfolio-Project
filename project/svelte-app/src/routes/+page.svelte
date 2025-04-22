@@ -12,7 +12,7 @@
 <svelte:head>
 	<title>Home</title>
 </svelte:head>
-<img src = "images/main.png"alt="main" > 
+<img src = "images/medical.jpg"alt="medical" > 
 
 
 <style>
