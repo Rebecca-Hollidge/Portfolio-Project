@@ -15,10 +15,8 @@
         color: #e7d2e4;
         text-align: center;
         padding: 1rem;
-        position: bottom;
-        bottom: 0;
+        position: flex;
         width: 100%;
-        flex-direction: column;
         
 
         list-style: none;

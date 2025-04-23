@@ -12,10 +12,21 @@
 <svelte:head>
 	<title>Home</title>
 </svelte:head>
-<img src = "images/medical.jpg"alt="medical" > 
+<dive>    
+    <img src = "images/flower1.png"alt="flower1" > 
+<img src = "images/cloud.png"alt="cloud" > 
+<img src = "images/flower1.png"alt="flower1" > 
+</dive>
 
 
 <style>
 
-
-</style>
+    img {
+    
+        height: 30%;
+        width: 30%;
+       
+        
+    }
+   
+            </style>
