@@ -4,11 +4,15 @@
     import { Navigation } from "$lib";
 </script><footer>
     <li><a href="/cat">cat</a></li>
-   
+    <!-- logo-->
+    
+
 </footer>
 
 
 <style>
+
+    
     footer {
         
         background-color: #b1cefa;

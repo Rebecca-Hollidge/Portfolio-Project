@@ -19,6 +19,7 @@
     </dive>
     <dive>
         <h1> icons </h1>
+            <img src = "images/mushroom.png"alt="mushroom" > 
         <img src = "images/rainbow.png"alt="rainbow" > 
         <img src = "images/houses.png"alt="houses" > 
         <img src = "images/tyfoon.png"alt="tyfoon" > 
@@ -38,6 +39,7 @@
             height: 15%;
             width: 15%;
             padding : 10px;
+        
         }
         
         
